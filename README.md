@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleksandr Avramenko</h1>
 <h3 align="center">A passionate frontend developer from Ukraine, living in USA</h3>
 
-- 🔭 I’m currently working on [Expense tracker](https://github.com/aaavramenk0/expense-tracker)
+- 🔭 I’m currently working on [To Do website](https://github.com/aaavramenk0/todo-react)
 
 - 🌱 I’m currently learning **ReactJS, AngularJS, TypeScript and other web development technologies**
 
